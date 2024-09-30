@@ -7,7 +7,7 @@
 
 - 🎓 I graduated with a **Bachelor's in Physics (Hons)**
 
-- 🌱 I’m currently learning **Artificial Intelligence and anomaly detection**
+- 🌱 I’m currently learning **PowerBI and SQL**
 
 - 🔭 I am interested in **Data Science, Machine Learning, and Data Analytics**
 
